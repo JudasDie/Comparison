@@ -19,15 +19,15 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><b>VOT16<b></td>
    </tr>
    <tr>
-      <td><font size="1"> <b><sub>AUC/Prep.<sub><b></td>
-      <td><font size="1"> <b><sub>Succ./Prep.<sub><b></td>
-      <td><font size="1"> <b><sub>AO/SR0.5/SR0.75<sub><b></td>
-      <td><font size="1"> <b><sub>Succ./Prep.<sub><b></td>
-      <td><font size="1"> <b><sub>A/R/EAO<sub><b></td>
-      <td><font size="1"> <b><sub>A/R/EAO<sub><b></td>
-      <td><font size="1"> <b><sub>A/R/EAO<sub><b></td>
-      <td><font size="1"> <b><sub>A/R/EAO<sub><b></td>
-      <td><font size="1"> <b><sub>A/R/EAO<sub><b></td>
+      <td><font size="1"> <b><sup>AUC/Prep.<sup><b></td>
+      <td><font size="1"> <b><sup>Succ./Prep.<sup><b></td>
+      <td><font size="1"> <b><sup>AO/SR0.5/SR0.75<sup><b></td>
+      <td><font size="1"> <b><sup>Succ./Prep.<sup><b></td>
+      <td><font size="1"> <b><sup>A/R/EAO<sup><b></td>
+      <td><font size="1"> <b><sup>A/R/EAO<sup><b></td>
+      <td><font size="1"> <b><sup>A/R/EAO<sup><b></td>
+      <td><font size="1"> <b><sup>A/R/EAO<sup><b></td>
+      <td><font size="1"> <b><sup>A/R/EAO<sup><b></td>
    </tr>
    <tr>
       <td rowspan="3"><b>ECCV20<b></td>
