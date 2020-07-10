@@ -67,7 +67,7 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td></td>
    </tr>
    <tr>
-      <td rowspan="9"><b>CVPR20<b></td>
+      <td rowspan="8"><b>CVPR20<b></td>
       <td><b><a href="https://arxiv.org/pdf/2004.00830v1.pdf">MAML</a><b></td>
       <td><sub>(0.714/-)/(0.712/-)<sub></td>
       <td><sub>0.523/-<sub></td>
