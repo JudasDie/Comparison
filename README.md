@@ -149,7 +149,7 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td>-</td>
       <td><sub>0.63/0.16/0.470<sub></td>
       <td>-</td>
-      <td><sub>0.98/0.14/0.537<sub></td>
+      <td><sub>0.68/0.14/0.537<sub></td>
    </tr>
    <tr>
       <td><b><a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Du_Correlation-Guided_Attention_for_Corner_Detection_Based_Visual_Tracking_CVPR_2020_paper.pdf">CGACD</a><b></td>
