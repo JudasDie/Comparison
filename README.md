@@ -38,7 +38,7 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td>-</td>
       <td><sub>0.470/0.715/0.286<sub></td>
       <td><sub>0.594/0.316/0.350<sub></td>
-      <td><sub>0.489/0.592/0.117<sub></td>
+      <td><sub>0.592/0.117/0.489<sub></td>
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
    </tr>
