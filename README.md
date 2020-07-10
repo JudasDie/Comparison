@@ -148,3 +148,10 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
    </tr>
 </table>
 
+| column 1 | column 2 |
+|----------|----------|
+| value    | * value 1|
+|          | * value 2|
+|----------|----------|
+| value    | * value 1|
+|          | * value 2|
