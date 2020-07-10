@@ -32,7 +32,7 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td></td>
    </tr>
    <tr>
-      <td><b>ECCV20<b></td>
+      <td rowspan="3"><b>ECCV20<b></td>
       <td><b>Ocean<b></td>
       <td></td>
       <td></td>
@@ -74,7 +74,7 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td></td>
    </tr>
    <tr>
-      <td><b>CVPR20<b></td>
+      <td rowspan="4"><b>CVPR20<b></td>
       <td></td>
       <td></td>
       <td></td>
@@ -130,7 +130,7 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td></td>
    </tr>
    <tr>
-      <td><b>AAAI20<b></td>
+      <td rowspan="1"><b>AAAI20<b></td>
       <td></td>
       <td></td>
       <td></td>
@@ -148,10 +148,3 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
    </tr>
 </table>
 
-| column 1 | column 2 |
-|----------|----------|
-| value    | * value 1|
-|          | * value 2|
-|----------|----------|
-| value    | * value 1|
-|          | * value 2|
