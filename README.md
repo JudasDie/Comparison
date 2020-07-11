@@ -47,7 +47,7 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><font size="1"> <b><sup>Pr/Re<sup><b></td>
    </tr>
    <tr>
-      <td rowspan="3"><b>ECCV20<b></td>
+      <td rowspan="2"><b>ECCV20<b></td>
       <td><b><a href="https://arxiv.org/pdf/2006.10721.pdf">Ocean</a><b></td>
       <td><sub>-/(0.684/0.920)<sub></td>
       <td><sub>0.560/0.566<sub></td>
@@ -81,7 +81,7 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
    </tr>
-   <tr>
+   <!-- <tr>
       <td><b><a href="https://arxiv.org/pdf/1910.08681.pdf">SPARK</a><b></td>
       <td><sub>-/(0.701/0.891)<sub></td>
       <td><sub>0.648/0.722<sub></td>
@@ -97,7 +97,7 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
-   </tr>
+   </tr> -->
    <tr>
       <td rowspan="8"><b>CVPR20<b></td>
       <td><b><a href="https://arxiv.org/pdf/2004.00830v1.pdf">MAML</a><b></td>
