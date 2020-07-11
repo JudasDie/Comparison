@@ -101,8 +101,8 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      <td><sub>-<sub></td>
-      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
    </tr>
    <tr>
       <td><b><a href="https://arxiv.org/pdf/1911.12836.pdf">Siam R-CNN</a><b></td>
@@ -115,8 +115,8 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub>0.609/0.220/0.408<sub></td>
       <td>-</td>
       <td>-</td>
-      <td>-</td>
-      <td><sub>-<sub></td>
+      <td><sub>0.649/0.834<sub></td>
+      <td><sub>0.639/-<sub></td>
       <td><sub>-<sub></td>
    </tr>
    <tr>
@@ -136,7 +136,7 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
    </tr>
    <tr>
       <td><b><a href="https://arxiv.org/pdf/2003.12565v1.pdf">PrDiMP</a><b></td>
-      <td><sub>-/(69.6/-)<sub></td>
+      <td><sub>-/(0.696/-)<sub></td>
       <td><sub>0.598/-<sub></td>
       <td><sub>0.634/0.738/0.543<sub></td>
       <td><sub>0.758/0.704<sub></td>
@@ -145,8 +145,8 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub>0.618/0.165/0.442<sub></td>
       <td>-</td>
       <td>-</td>
-      <td>-</td>
-      <td><sub>-<sub></td>
+      <td><sub>0.680/-<sub></td>
+      <td><sub>0.635/-<sub></td>
       <td><sub>-<sub></td>
    </tr>
    <tr>
@@ -175,8 +175,8 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub>0.597/0.178/0.452<sub></td>
       <td>-</td>
       <td>-</td>
-      <td><sub>-<sub></td>
-      <td><sub>-<sub></td>
+      <td><sub>0.631/0.833<sub></td>
+      <td><sub>0.594/-<sub></td>
       <td><sub>-<sub></td>
    </tr>
    <tr>
@@ -190,9 +190,9 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub>0.63/0.16/0.470<sub></td>
       <td>-</td>
       <td><sub>0.68/0.14/0.537<sub></td>
-       <td>-</td>
-       <td><sub>-<sub></td>
-       <td><sub>-<sub></td>
+      <td><sub>0.650/0.845<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
    </tr>
    <tr>
       <td><b><a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Du_Correlation-Guided_Attention_for_Corner_Detection_Based_Visual_Tracking_CVPR_2020_paper.pdf">CGACD</a><b></td>
@@ -205,9 +205,9 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub>0.615/0.173/0.449<sub></td>
       <td>-</td>
       <td>-</td>
-       <td>-</td>
-       <td><sub>-<sub></td>
-       <td><sub>-<sub></td>
+      <td><sub>0.633/0.833<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
    </tr>
    <tr>
       <td rowspan="1"><b>AAAI20<b></td>
