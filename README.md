@@ -27,6 +27,8 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><b>UAV123<b></td>
       <td><b>NFS<b></td>
       <td><b>TC128<b></td>
+      <td><b>OxUAV<b></td>
+      <td><b>VOT18LT<b></td>
    </tr>
    <tr>
       <td><font size="1"> <b><sup>AUC/Prep.<sup><b></td>
@@ -41,6 +43,8 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><font size="1"> <b><sup>Succ./Prep.<sup><b></td>
       <td><font size="1"> <b><sup>Succ./Prep.<sup><b></td>
       <td><font size="1"> <b><sup>Succ./Prep.<sup><b></td>
+      <td><font size="1"> <b><sup>M/TPR/TNR<sup><b></td>
+      <td><font size="1"> <b><sup>Pr/Re<sup><b></td>
    </tr>
    <tr>
       <td rowspan="3"><b>ECCV20<b></td>
@@ -57,34 +61,40 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
-   </tr>
-   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
    </tr>
    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td><b><a href="https://arxiv.org/pdf/2003.11014.pdf">KYS</a><b></td>
+      <td><sub>-/(0.695/)<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.636/0.751/0.515<sub></td>
+      <td><sub>0.740/0.688<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>0.609/0.143/0.462<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>0.635/-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="https://arxiv.org/pdf/1910.08681.pdf">SPARK</a><b></td>
+      <td><sub>-/(0.701/0.891)<sub></td>
+      <td><sub>0.648/0.722<sub></td>
+      <td><sub>0.649/0.728/0.597<sub></td>
+      <td><sub>0.812/0.800<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>0.609/0.220/0.408<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
    </tr>
@@ -103,6 +113,8 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td>-</td>
       <td>-</td>
       <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
    </tr>
    <tr>
       <td><b><a href="https://arxiv.org/pdf/1911.12836.pdf">Siam R-CNN</a><b></td>
@@ -118,6 +130,8 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub>0.649/0.834<sub></td>
       <td><sub>0.639/-<sub></td>
       <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
    </tr>
    <tr>
       <td><b><a href="http://arxiv.org/pdf/1911.08862v2.pdf">D3S</a><b></td>
@@ -131,6 +145,8 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td>-</td>
       <td><sub>0.660/0.131/0.493<sub></td>
       <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
    </tr>
@@ -148,6 +164,8 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub>0.680/-<sub></td>
       <td><sub>0.635/-<sub></td>
       <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
    </tr>
    <tr>
       <td><b><a href="https://arxiv.org/pdf/1907.12006v3.pdf">ROAM</a><b></td>
@@ -161,6 +179,8 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub>0.543/0.195/0.380<sub></td>
       <td><sub>0.599/0.174/0.441<sub></td>
       <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
    </tr>
@@ -178,6 +198,8 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub>0.631/0.833<sub></td>
       <td><sub>0.594/-<sub></td>
       <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
    </tr>
    <tr>
       <td><b><a href="https://arxiv.org/pdf/2004.06711v1.pdf">SiamAttn</a><b></td>
@@ -191,6 +213,8 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td>-</td>
       <td><sub>0.68/0.14/0.537<sub></td>
       <td><sub>0.650/0.845<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
    </tr>
@@ -208,22 +232,128 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub>0.633/0.833<sub></td>
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
    </tr>
    <tr>
-      <td rowspan="1"><b>AAAI20<b></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td rowspan="7"><b>AAAI20<b></td>
+      <td><b><a href="https://www.aaai.org/Papers/AAAI/2020GB/AAAI-XuY.5104.pdf">SiamFC++</a><b></td>
+      <td><sub>-/(0.683/-)<sub></td>
+      <td><sub>0.544/-<sub></td>
+      <td><sub>0.595/0.695/0.479<sub></td>
+      <td><sub>0.754/0.705<sub></td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>0.587/0.183/0.426<sub></td>
+      <td>-</td>
+      <td>-</td>
       <td>-</td>
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="https://aaai.org/Papers/AAAI/2020GB/AAAI-WangN.1288.pdf">POST</a><b></td>
+      <td><sub>(0.672/0.884)/(0.678/0.907)<sub></td>
+      <td><sub>0.481/0.463<sub></td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+       <td><sub>0.629/0.800<sub></td>
+       <td><sub>-<sub></td>
+       <td><sub>0.563/0.781<sub></td>
+       <td><sub>-<sub></td>
+       <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="https://arxiv.org/pdf/1912.00597.pdf">SPS</a><b></td>
+      <td><sub>(0.703/0.911)/(0.692/0.902)<sub></td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>0.612/0.169/0.434<sub></td>
+      <td>-</td>
+      <td>0.625/0.158/0.459</td>
+       <td><sub>-<sub></td>
+       <td><sub>0.600/-<sub></td>
+       <td><sub>-<sub></td>
+       <td><sub>-<sub></td>
+       <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="https://www.aiide.org/ojs/index.php/AAAI/article/view/6956/6810">RPOT</a><b></td>
+      <td><sub>-/(0.687/0.914)<sub></td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="https://arxiv.org/pdf/1911.11170.pdf">MetaRTT</a><b></td>
+      <td><sub>-/(0.655/0.890)<sub></td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-/-/0.346</td>
+      <td><sub>0.569/0.809<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.597/0.800<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="https://arxiv.org/pdf/1912.08531.pdf">GlobalT</a><b></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.521/0.527<sub></td>
+      <td>-</td>
+      <td><sub>0.704/0.656<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.603/0.574/0.633<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="https://arxiv.org/pdf/1909.02959.pdf">DROL</a><b></td>
+      <td><sub>-/(0.715/0.937)<sub></td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td><sub>0.746/0.708<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>0.616/-/0.481<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>0.652/0.855<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.687/0.650<sub></td>
    </tr>
    <tr>
       <td rowspan="12"><b>CVPR19<b></td>
@@ -238,6 +368,8 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub>-/-/0.246<sub></td>
       <td><sub>-/-/0.304<sub></td>
       <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
    </tr>
@@ -255,6 +387,8 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
        <td>-</td>
        <td><sub>-<sub></td>
        <td><sub>-<sub></td>
+       <td><sub>-<sub></td>
+       <td><sub>-<sub></td>
    </tr>
    <tr>
       <td><b><a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_SiamRPN_Evolution_of_Siamese_Visual_Tracking_With_Very_Deep_Networks_CVPR_2019_paper.pdf">SiamRPN++</a><b></td>
@@ -268,6 +402,8 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
       <td><sub>0.613/0.807<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
    </tr>
@@ -285,6 +421,8 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub>0.650/-<sub></td>
       <td><sub>0.590/-<sub></td>
       <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
    </tr>
    <tr>
       <td><b><a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Fan_Siamese_Cascaded_Region_Proposal_Networks_for_Real-Time_Visual_Tracking_CVPR_2019_paper.pdf">CRPN</a><b></td>
@@ -300,6 +438,8 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td>-</td>
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
    </tr>
    <tr>
       <td><b><a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_SPM-Tracker_Series-Parallel_Matching_for_Real-Time_Visual_Object_Tracking_CVPR_2019_paper.pdf">SPM</a><b></td>
@@ -312,6 +452,8 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub>-<sub></td>
       <td><sub>0.580/0.300/0.338<sub></td>
       <td><sub>0.620/0.210/0.434<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
@@ -331,6 +473,8 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub>0.508/0.732<sub></td>
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
    </tr>
    <tr>
       <td><b><a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Dai_Visual_Tracking_via_Adaptive_Spatially-Regularized_Correlation_Filters_CVPR_2019_paper.pdf">ASRCF</a><b></td>
@@ -346,6 +490,8 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
        <td>-</td>
        <td><sub>-<sub></td>
        <td><sub>0.603/0.825<sub></td>
+       <td><sub>-<sub></td>
+       <td><sub>-<sub></td>
    </tr>
    <tr>
       <td><b><a href="https://arxiv.org/pdf/1904.01828.pdf">UDT</a><b></td>
@@ -361,6 +507,8 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
       <td><sub>0.541/0.717<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
    </tr>
    <tr>
       <td><b><a href="https://arxiv.org/pdf/1904.01772.pdf">TADT</a><b></td>
@@ -376,6 +524,8 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
       <td><sub>0.562/-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
    </tr>
    <tr>
       <td><b><a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_ROI_Pooled_Correlation_Filters_for_Visual_Tracking_CVPR_2019_paper.pdf">RPCF</a><b></td>
@@ -391,6 +541,8 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
       <td><sub><sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
    </tr>
    <tr>
       <td><b><a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Kart_Object_Tracking_by_Reconstruction_With_View-Specific_Discriminative_Correlation_Filters_CVPR_2019_paper.pdf">OTR</a><b></td>
@@ -406,6 +558,8 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
       <td><sub><sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
    </tr>
    
 </table></font>
