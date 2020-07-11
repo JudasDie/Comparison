@@ -561,6 +561,59 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
    </tr>
-   
+   <tr>
+      <td rowspan="3"><b>AAAI19<b></td>
+      <td><b><a href="https://www.aaai.org/ojs/index.php/AAAI/article/view/4862/4735">Re2EMA</a><b></td>
+      <td><sub>-/(0.652/0.832)<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>0.521/0.695<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="https://faculty.ucmerced.edu/mhyang/papers/aaai2019_tracking.pdf">ANT</a><b></td>
+      <td><sub>-/(0.670/0.905)<sub></td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+       <td><sub>-<sub></td>
+       <td><sub>-<sub></td>
+       <td><sub>-<sub></td>
+       <td><sub>-<sub></td>
+       <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="https://arxiv.org/pdf/1712.05231.pdf">LDES</a><b></td>
+      <td><sub>(0.677/0.810)/(0.643/0.783)<sub></td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+       <td><sub>-<sub></td>
+       <td><sub>-<sub></td>
+       <td><sub>-<sub></td>
+       <td><sub>-<sub></td>
+       <td><sub>-<sub></td>
+   </tr>
+
+
 </table></font>
 
