@@ -27,7 +27,7 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><b>UAV123<b></td>
       <td><b>NFS<b></td>
       <td><b>TC128<b></td>
-      <td><b>OxUAV<b></td>
+      <td><b>OxUvA<b></td>
       <td><b>VOT18LT<b></td>
    </tr>
    <tr>
@@ -560,6 +560,177 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub><sub></td>
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td rowspan="10"><b>ICCV19<b></td>
+      <td><b><a href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Bhat_Learning_Discriminative_Model_Prediction_for_Tracking_ICCV_2019_paper.pdf">DiMP</a><b></td>
+      <td><sub>-/(0.684/-)<sub></td>
+      <td><sub>0.569/-<sub></td>
+      <td><sub>0.611/0.717/0.492<sub></td>
+      <td><sub>0.740/0.687<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>0.597/0.153/0.440<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>0.654/-<sub></td>
+      <td><sub>0.620/-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td><b><a href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_GradNet_Gradient-Guided_Network_for_Visual_Object_Tracking_ICCV_2019_paper.pdf">GradNet</a><b></td>
+      <td><sub>-/(0.639/0.861)<sub></td>
+      <td><sub>0.365/0.351<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>0.507/0.375/0.247<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td><b><a href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Choi_Deep_Meta_Learning_for_Real-Time_Target-Aware_Visual_Tracking_ICCV_2019_paper.pdf">MLT</a><b></td>
+      <td><sub>(0.621/-)/(0.611/-)<sub></td>
+      <td><sub>0.368/-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>0.498/-<sub></td>
+      <td>-</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td><b><a href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Skimming-Perusal_Tracking_A_Framework_for_Real-Time_and_Robust_Long-Term_Tracking_ICCV_2019_paper.pdf">SPLT</a><b></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>0.622/0.498/0.776<sub></td>
+      <td><sub>0.633/0.600<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_Learning_Aberrance_Repressed_Correlation_Filters_for_Real-Time_UAV_Tracking_ICCV_2019_paper.pdf">ARCF</a><b></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>0.473/0.666<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td><b><a href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_Bridging_the_Gap_Between_Detection_and_Tracking_A_Unified_Approach_ICCV_2019_paper.pdf">BGDT</a><b></td>
+      <td><sub>(0.656/-)/(0.647/-)<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>0.586/-<sub></td>
+      <td><sub>0.515/-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td><b><a href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Learning_the_Model_Update_for_Siamese_Trackers_ICCV_2019_paper.pdf">UpdateNet</a><b></td>
+      <td>-</td>
+      <td><sub>0.475/-<sub></td>
+      <td>-</td>
+      <td><sub>0.677/0.625<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-/-/0.393</td>
+      <td>-</td>
+      <td><sub>0.610/0.206/0.481<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td><b><a href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Wiyatno_Physical_Adversarial_Textures_That_Fool_Visual_Object_Tracking_ICCV_2019_paper.pdf">PAT</a><b></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td><b><a href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_Joint_Group_Feature_Selection_and_Discriminative_Filter_Learning_for_Robust_ICCV_2019_paper.pdf">GFS-DCF</a><b></td>
+      <td><sub>(0.722/0.965)/(0.693/0.932)<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>0.6090/0.5657<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>0.511/0.143/0.397<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td><b><a href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Lukezic_CDTB_A_Color_and_Depth_Visual_Object_Tracking_Dataset_and_ICCV_2019_paper.pdf">CDTB</a><b></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
    </tr>
    <tr>
       <td rowspan="3"><b>AAAI19<b></td>
