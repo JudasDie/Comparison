@@ -6,7 +6,7 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
 
 
 - **Single Object Tracking (SOT)**  
-   - Download Papers (.zip) in [ECCV2020](), [CVPR2020](), [CVPR2019]()
+   - Download Papers (.zip) in [ECCV20](), [CVPR20](), [AAAI20](https://drive.google.com/file/d/1EKQHhWVcbzbNQ_4bEIBDP0QOj44vcSMG/view?usp=sharing), [CVPR2019](https://drive.google.com/file/d/1M-bWTbtktgha3FinC8YBuIlGZi29BJDP/view?usp=sharing), [ICCV19](), [AAAI19](https://drive.google.com/file/d/1-h8aqzIprta5jv6RpDThMMCkUaVprNTg/view?usp=sharing), [ECCV18](https://drive.google.com/file/d/1WtAMh6DBlpQ7_5AYFeoABo4rOoMMSblK/view?usp=sharing), [CVPR18](https://drive.google.com/file/d/1OsWnHf-b4ZW1C_5GH6EKx5I8qyHg6Fd0/view?usp=sharing), [ICCV17](https://drive.google.com/file/d/19FtR_qHYMcK2rPmGBzr9HknQr5ru-rgt/view?usp=sharing), [CVPR17](https://drive.google.com/file/d/1xyC7OSbs1wN3Vgy69mU99O1H2sMdf11n/view?usp=sharing), [Others](https://drive.google.com/file/d/1fXQi9N0f7mAvsVV11ksfFOCewjol5Dml/view?usp=sharing)
 
 
 <table class="center">
@@ -1762,3 +1762,7 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
    
 </table></font>
 
+
+### Contributors
+- [Zhipeng Zhang](https://github.com/JudasDie)
+- [Kaiwen Liu]()
