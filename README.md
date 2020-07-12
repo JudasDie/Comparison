@@ -787,7 +787,7 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
    <tr>
       <td rowspan="15"><b>CVPR18<b></td>
       <td><b><a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Song_VITAL_VIsual_Tracking_CVPR_2018_paper.pdf">VITAL</a><b></td>
-      <td><sub>-/(0.652/0.832)<sub></td>
+      <td><sub>(0.710/0.950)/(0.691/0.917)<sub></td>
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
@@ -795,23 +795,23 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
       <td>-</td>
-      <td>-</td>
+      <td>-/-/0.323</td>
       <td>-</td>
       <td><sub>-<sub></td>
-      <td><sub>0.521/0.695<sub></td>
+      <td><sub>-<sub></td>
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
    </tr>
    <tr>
       <td><b><a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Sun_Learning_Spatial-Aware_Regressions_CVPR_2018_paper.pdf">LSART</a><b></td>
-      <td><sub>-/(0.670/0.905)<sub></td>
+      <td><sub>-/(0.672/0.923)<sub></td>
       <td><sub>-<sub></td>
       <td>-</td>
       <td><sub>-<sub></td>
       <td>-</td>
       <td>-</td>
       <td><sub>-<sub></td>
-      <td>-</td>
+      <td>0.493/0.218/0.323</td>
       <td>-</td>
        <td><sub>-<sub></td>
        <td><sub>-<sub></td>
@@ -821,15 +821,15 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
    </tr>
    <tr>
       <td><b><a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Li_High_Performance_Visual_CVPR_2018_paper.pdf">SiamRPN</a><b></td>
-      <td><sub>(0.677/0.810)/(0.643/0.783)<sub></td>
+      <td><sub>-/(0.637/0.851)<sub></td>
       <td><sub>-<sub></td>
       <td>-</td>
       <td><sub>-<sub></td>
       <td>-</td>
       <td>-</td>
       <td><sub>-<sub></td>
-      <td>-</td>
-      <td><sub>-<sub></td>
+      <td>-/-/0.243</td>
+      <td><sub>0.56/-/0.344<sub></td>
        <td><sub>-<sub></td>
        <td><sub>-<sub></td>
        <td><sub>-<sub></td>
@@ -838,7 +838,7 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
    </tr>
    <tr>
       <td><b><a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_Context-Aware_Deep_Feature_CVPR_2018_paper.pdf">TRACA</a><b></td>
-      <td><sub>(0.677/0.810)/(0.643/0.783)<sub></td>
+      <td><sub>(0.652/0.898)/(0.603/0.816)<sub></td>
       <td><sub>-<sub></td>
       <td>-</td>
       <td><sub>-<sub></td>
@@ -855,14 +855,14 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
    </tr>
    <tr>
       <td><b><a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Learning_Attentions_Residual_CVPR_2018_paper.pdf">RAS</a><b></td>
-      <td><sub>(0.677/0.810)/(0.643/0.783)<sub></td>
+      <td><sub>(0.670/0.892)/(0.642/-)<sub></td>
       <td><sub>-<sub></td>
       <td>-</td>
       <td><sub>-<sub></td>
       <td>-</td>
       <td>-</td>
       <td><sub>-<sub></td>
-      <td>-</td>
+      <td><sub>-/-/0.283<sub></td>
       <td><sub>-<sub></td>
        <td><sub>-<sub></td>
        <td><sub>-<sub></td>
@@ -872,15 +872,15 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
    </tr>
    <tr>
       <td><b><a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/He_A_Twofold_Siamese_CVPR_2018_paper.pdf">SASiam</a><b></td>
-      <td><sub>(0.677/0.810)/(0.643/0.783)<sub></td>
+      <td><sub>(0.677/0.896)/(0.657/0.865)<sub></td>
       <td><sub>-<sub></td>
       <td>-</td>
       <td><sub>-<sub></td>
       <td>-</td>
       <td>-</td>
       <td><sub>-<sub></td>
-      <td>-</td>
-      <td><sub>-<sub></td>
+      <td><sub>0.500/0.459/0.236<sub></td>
+      <td><sub>0.540/-/0.291<sub></td>
        <td><sub>-<sub></td>
        <td><sub>-<sub></td>
        <td><sub>-<sub></td>
@@ -889,7 +889,7 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
    </tr>
    <tr>
       <td><b><a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Learning_Spatial-Temporal_Regularized_CVPR_2018_paper.pdf">STRCF</a><b></td>
-      <td><sub>(0.677/0.810)/(0.643/0.783)<sub></td>
+      <td><sub>-/(0.683/0.842)<sub></td>
       <td><sub>-<sub></td>
       <td>-</td>
       <td><sub>-<sub></td>
@@ -897,16 +897,16 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td>-</td>
       <td><sub>-<sub></td>
       <td>-</td>
-      <td><sub>-<sub></td>
+      <td><sub>0.550/-/0.313<sub></td>
        <td><sub>-<sub></td>
        <td><sub>-<sub></td>
-       <td><sub>-<sub></td>
+       <td><sub>0.601/-<sub></td>
        <td><sub>-<sub></td>
        <td><sub>-<sub></td>
    </tr>
    <tr>
       <td><b><a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhu_End-to-End_Flow_Correlation_CVPR_2018_paper.pdf">FlowTrack</a><b></td>
-      <td><sub>(0.677/0.810)/(0.643/0.783)<sub></td>
+      <td><sub>(0.689/0.921)/(0.655/0.881)<sub></td>
       <td><sub>-<sub></td>
       <td>-</td>
       <td><sub>-<sub></td>
@@ -914,7 +914,7 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td>-</td>
       <td><sub>-<sub></td>
       <td>-</td>
-      <td><sub>-<sub></td>
+      <td><sub>0.570/-/0.341<sub></td>
        <td><sub>-<sub></td>
        <td><sub>-<sub></td>
        <td><sub>-<sub></td>
@@ -923,7 +923,7 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
    </tr>
    <tr>
       <td><b><a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Meshgi_Efficient_Diverse_Ensemble_CVPR_2018_paper.pdf">DEDT</a><b></td>
-      <td><sub>(0.677/0.810)/(0.643/0.783)<sub></td>
+      <td><sub>-/(0.690/0.810)<sub></td>
       <td><sub>-<sub></td>
       <td>-</td>
       <td><sub>-<sub></td>
@@ -940,7 +940,7 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
    </tr>
    <tr>
       <td><b><a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_SINT_Robust_Visual_CVPR_2018_paper.pdf">SINT++</a><b></td>
-      <td><sub>(0.677/0.810)/(0.643/0.783)<sub></td>
+      <td><sub>-/(0.574/0.768)<sub></td>
       <td><sub>-<sub></td>
       <td>-</td>
       <td><sub>-<sub></td>
@@ -957,7 +957,7 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
    </tr>
    <tr>
       <td><b><a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Sun_Correlation_Tracking_via_CVPR_2018_paper.pdf">DRT</a><b></td>
-      <td><sub>(0.677/0.810)/(0.643/0.783)<sub></td>
+      <td><sub>(0.720/0.953)/(0.699/0.923)<sub></td>
       <td><sub>-<sub></td>
       <td>-</td>
       <td><sub>-<sub></td>
@@ -974,7 +974,7 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
    </tr>
    <tr>
       <td><b><a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Multi-Cue_Correlation_Filters_CVPR_2018_paper.pdf">MCCT</a><b></td>
-      <td><sub>(0.677/0.810)/(0.643/0.783)<sub></td>
+      <td><sub>(0.695/0.914)/(0.714/0.928)<sub></td>
       <td><sub>-<sub></td>
       <td>-</td>
       <td><sub>-<sub></td>
@@ -982,16 +982,16 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td>-</td>
       <td><sub>-<sub></td>
       <td>-</td>
-      <td><sub>-<sub></td>
+      <td><sub>0.580/-/0.393<sub></td>
        <td><sub>-<sub></td>
        <td><sub>-<sub></td>
-       <td><sub>-<sub></td>
+       <td><sub>0.596/0.797<sub></td>
        <td><sub>-<sub></td>
        <td><sub>-<sub></td>
    </tr>
    <tr>
       <td><b><a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Tang_High-Speed_Tracking_With_CVPR_2018_paper.pdf">MKCF</a><b></td>
-      <td><sub>(0.677/0.810)/(0.643/0.783)<sub></td>
+      <td><sub>(0.641/0.835)/-<sub></td>
       <td><sub>-<sub></td>
       <td>-</td>
       <td><sub>-<sub></td>
@@ -1001,14 +1001,14 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td>-</td>
       <td><sub>-<sub></td>
        <td><sub>-<sub></td>
-       <td><sub>-<sub></td>
+       <td><sub>0.455/0.532<sub></td>
        <td><sub>-<sub></td>
        <td><sub>-<sub></td>
        <td><sub>-<sub></td>
    </tr>
    <tr>
       <td><b><a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Dong_Hyperparameter_Optimization_for_CVPR_2018_paper.pdf">HP</a><b></td>
-      <td><sub>(0.677/0.810)/(0.643/0.783)<sub></td>
+      <td><sub>(0.629/-)/(0.601/0.796)<sub></td>
       <td><sub>-<sub></td>
       <td>-</td>
       <td><sub>-<sub></td>
