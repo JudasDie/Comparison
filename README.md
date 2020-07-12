@@ -1656,6 +1656,109 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
    </tr>
+   <tr>
+      <td rowspan="5"><b>Others<b></td>
+      <td><b><a href="https://arxiv.org/pdf/1606.09549.pdf">SiamFC</a><b></td>
+      <td><sub>(0.612/-)/()<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub><sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="https://arxiv.org/pdf/1605.05863.pdf">SINT</a><b></td>
+      <td><sub>(0.655/0.882)/-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <!-- <tr>
+      <td><b><a href="http://davheld.github.io/GOTURN/GOTURN.pdf">GOTURN</a><b></td>
+      <td><sub>-/(0.695/)<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.636/0.751/0.515<sub></td>
+      <td><sub>0.740/0.688<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>0.609/0.143/0.462<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>0.635/-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr> -->
+   <tr>
+      <td><b><a href="https://www.cvl.isy.liu.se/research/objrec/visualtracking/conttrack/C-COT_ECCV16.pdf">CCOT</a><b></td>
+      <td><sub>-/(0.682/0.824)<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>0.581/-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Nam_Learning_Multi-Domain_Convolutional_CVPR_2016_paper.pdf">MDNET</a><b></td>
+      <td><sub>-/(0.678/0.909)<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="http://davheld.github.io/GOTURN/GOTURN.pdf">SRDCF</a><b></td>
+      <td><sub>(0.633/-)/(0.605/)<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
    
 </table></font>
 
