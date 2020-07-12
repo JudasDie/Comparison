@@ -1743,7 +1743,7 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub>-<sub></td>
    </tr>
    <tr>
-      <td><b><a href="http://davheld.github.io/GOTURN/GOTURN.pdf">SRDCF</a><b></td>
+      <td><b><a href="https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Danelljan_Learning_Spatially_Regularized_ICCV_2015_paper.pdf">SRDCF</a><b></td>
       <td><sub>(0.633/-)/(0.605/)<sub></td>
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
