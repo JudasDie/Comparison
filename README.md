@@ -785,7 +785,7 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
        <td><sub>-<sub></td>
    </tr>
    <tr>
-      <td rowspan="15"><b>CVPR18<b></td>
+      <td rowspan="14"><b>CVPR18<b></td>
       <td><b><a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Song_VITAL_VIsual_Tracking_CVPR_2018_paper.pdf">VITAL</a><b></td>
       <td><sub>(0.710/0.950)/(0.691/0.917)<sub></td>
       <td><sub>-<sub></td>
@@ -1023,6 +1023,214 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
        <td><sub>-<sub></td>
        <td><sub>-<sub></td>
    </tr>
+    </tr>
+   <tr>
+      <td rowspan="12"><b>ECCV18<b></td>
+      <td><b><a href="http://openaccess.thecvf.com/content_ECCV_2018/papers/Goutam_Bhat_Unveiling_the_Power_ECCV_2018_paper.pdf">UPDT</a><b></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.532/0.182/0.378<sub></td>
+      <td><sub>0.550/-<sub></td>
+      <td><sub>0.541/-<sub></td>
+      <td><sub>0.622/-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="http://openaccess.thecvf.com/content_ECCV_2018/papers/Zheng_Zhu_Distractor-aware_Siamese_Networks_ECCV_2018_paper.pdf">DaSiam</a><b></td>
+      <td><sub>-/(-/0.88)<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>0.560/0.340/0.326<sub></td>
+      <td><sub>0.610/0.220/0.411<sub></td>
+      <td><sub>0.586/0.796<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="http://openaccess.thecvf.com/content_ECCV_2018/papers/mengdan_zhang_Visual_Tracking_via_ECCV_2018_paper.pdf">SACF</a><b></td>
+      <td><sub>(0.713/0.938)/(0.693/0.917)<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="http://openaccess.thecvf.com/content_ECCV_2018/papers/Yingjie_Yao_Joint_Representation_and_ECCV_2018_paper.pdf">RTINet</a><b></td>
+      <td><sub>-/(0.682/)<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td><sub>0.57/-/0.298<sub></td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>0.602/-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="http://openaccess.thecvf.com/content_ECCV_2018/papers/Eunbyung_Park_Meta-Tracker_Fast_and_ECCV_2018_paper.pdf">MetaT</a><b></td>
+      <td><sub>-/(0.662/0.888)<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td><sub>0.519/-/0.317<sub></td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiankai_Lu_Deep_Regression_Tracking_ECCV_2018_paper.pdf">DSLT</a><b></td>
+      <td><sub>(0.683/0.934)/(0.660/0.909)<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td><sub>-/-/0.332<sub></td>
+      <td><sub>0.530/0.746<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.587/0.807<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="http://openaccess.thecvf.com/content_ECCV_2018/papers/Liangliang_Ren_Deep_Reinforcement_Learning_ECCV_2018_paper.pdf">DRLIS</a><b></td>
+      <td><sub>-/(0.671/0.909)<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>0.590/0.818<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="http://openaccess.thecvf.com/content_ECCV_2018/papers/Ilchae_Jung_Real-Time_MDNet_ECCV_2018_paper.pdf">RTMDNet</a><b></td>
+      <td><sub>-/(0.650/0.885)<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>0.528/0.772<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.563/0.788<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="http://openaccess.thecvf.com/content_ECCV_2018/papers/Boyu_Chen_Real-time_Actor-Critic_Tracking_ECCV_2018_paper.pdf">ACT</a><b></td>
+      <td><sub>(0.657/0.905)/(0.625/0.859)<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td><sub>-/-/0.275<sub></td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="http://openaccess.thecvf.com/content_ECCV_2018/papers/Yunhua_Zhang_Structured_Siamese_Network_ECCV_2018_paper.pdf">StructSiam</a><b></td>
+      <td><sub>(0.638/0.880)/(0.621/0.851)<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td><sub>-/-/0.264<sub></td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="http://openaccess.thecvf.com/content_ECCV_2018/papers/Tianyu_Yang_Learning_Dynamic_Memory_ECCV_2018_paper.pdf">MemTrack</a><b></td>
+      <td><sub>(0.642/0.849)/(0.626/0.820)<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td><sub>0.53/-/0.273<sub></td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="http://openaccess.thecvf.com/content_ECCV_2018/papers/Xingping_Dong_Triplet_Loss_with_ECCV_2018_paper.pdf">SiamTri</a><b></td>
+      <td><sub>(0.629/0.834)/-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-/-/0.215<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   
+   
 
 
 </table></font>
