@@ -795,7 +795,7 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
       <td>-</td>
-      <td>-/-/0.323</td>
+      <td><sub>-/-/0.323<sub></td>
       <td>-</td>
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
@@ -811,7 +811,7 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td>-</td>
       <td>-</td>
       <td><sub>-<sub></td>
-      <td>0.493/0.218/0.323</td>
+      <td><sub>0.493/0.218/0.323<sub></td>
       <td>-</td>
        <td><sub>-<sub></td>
        <td><sub>-<sub></td>
@@ -828,7 +828,7 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td>-</td>
       <td>-</td>
       <td><sub>-<sub></td>
-      <td>-/-/0.243</td>
+      <td><sub>-/-/0.243<sub></td>
       <td><sub>0.56/-/0.344<sub></td>
        <td><sub>-<sub></td>
        <td><sub>-<sub></td>
