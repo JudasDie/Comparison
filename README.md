@@ -1451,6 +1451,211 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
    </tr>
+   <tr>
+      <td rowspan="11"><b>CVPR17<b></td>
+      <td><b><a href="http://openaccess.thecvf.com/content_cvpr_2017/papers/Danelljan_ECO_Efficient_Convolution_CVPR_2017_paper.pdf">ECO</a><b></td>
+      <td><sub>-/(0.700/-)<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.54/-/0.374<sub></td>
+      <td><sub>0.537/-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.605/-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="http://openaccess.thecvf.com/content_cvpr_2017/papers/Valmadre_End-To-End_Representation_Learning_CVPR_2017_paper.pdf">CFNet</a><b></td>
+      <td><sub>(0.618/0.753)/(0.589/0.711)<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="http://openaccess.thecvf.com/content_cvpr_2017/papers/Mueller_Context-Aware_Correlation_Filter_CVPR_2017_paper.pdf">CACF</a><b></td>
+      <td><sub>-/(0.598/0.810)<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Robust_Visual_Tracking_CVPR_2017_paper.pdf">RaF</a><b></td>
+      <td><sub>(0.615/0.919)/(0.565/0.851)<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Multi-Task_Correlation_Particle_CVPR_2017_paper.pdf">MCPF</a><b></td>
+      <td><sub>(0.677/0.916)/(0.628/0.873)<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>0.545/0/774<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="http://openaccess.thecvf.com/content_cvpr_2017/papers/Choi_Attentional_Correlation_Filter_CVPR_2017_paper.pdf">ACFN</a><b></td>
+      <td><sub>(0.607/0.860)/(0.575/802)<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_Large_Margin_Object_CVPR_2017_paper.pdf">LMCF</a><b></td>
+      <td><sub>(0.643/0.892)/-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="http://openaccess.thecvf.com/content_cvpr_2017/papers/Yun_Action-Decision_Networks_for_CVPR_2017_paper.pdf">ADNet</a><b></td>
+      <td><sub>-/(0.646/0.880)<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="http://openaccess.thecvf.com/content_cvpr_2017/papers/Lukezic_Discriminative_Correlation_Filter_CVPR_2017_paper.pdf">CSRDCF</a><b></td>
+      <td><sub>-/(0.587/0.733)<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td><sub>0.51/-/0.338<sub></td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="http://openaccess.thecvf.com/content_cvpr_2017/papers/Han_BranchOut_Regularization_for_CVPR_2017_paper.pdf">BranchOut</a><b></td>
+      <td><sub>-/(0.683/0.919)<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <!-- <tr>
+      <td><b><a href="http://openaccess.thecvf.com/content_cvpr_2017/papers/Yeo_Superpixel-Based_Tracking-By-Segmentation_Using_CVPR_2017_paper.pdf">AMCT</a><b></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>-/-/0.303<sub></td>
+      <td><sub>0.58/-/0.391<sub></td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr> -->
+   <tr>
+      <td><b><a href="https://arxiv.org/pdf/1611.06878.pdf">SANet</a><b></td>
+      <td><sub>-/(0.692/0.928)<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>0.616/0.837<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
    
 </table></font>
 
