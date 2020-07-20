@@ -562,7 +562,7 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub>-<sub></td>
    </tr>
    <tr>
-      <td rowspan="10"><b>ICCV19<b></td>
+      <td rowspan="11"><b>ICCV19<b></td>
       <td><b><a href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Bhat_Learning_Discriminative_Model_Prediction_for_Tracking_ICCV_2019_paper.pdf">DiMP</a><b></td>
       <td><sub>-/(0.684/-)<sub></td>
       <td><sub>0.569/-<sub></td>
@@ -726,6 +726,23 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td>-</td>
       <td>-</td>
       <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td><b><a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Zheng_Fast-deepKCF_Without_Boundary_Effect_ICCV_2019_paper.pdf">fdKCF</a><b></td>
+      <td><sub>(0.705/0.908)/(0.675/0.891)<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-/-/0.265<sub></td>
+      <td><sub>-/-/0.347<sub></td>
       <td>-</td>
       <td>-</td>
       <td>-</td>
