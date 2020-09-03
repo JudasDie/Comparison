@@ -44,10 +44,10 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><font size="1"> <b><sup>Succ./Prep.<sup><b></td>
       <td><font size="1"> <b><sup>Succ./Prep.<sup><b></td>
       <td><font size="1"> <b><sup>M/TPR/TNR<sup><b></td>
-      <td><font size="1"> <b><sup>Pr/Re<sup><b></td>
+      <td><font size="1"> <b><sup>Pr/Re/F<sup><b></td>
    </tr>
    <tr>
-      <td rowspan="2"><b>ECCV20<b></td>
+      <td rowspan="3"><b>ECCV20<b></td>
       <td><b><a href="https://arxiv.org/pdf/2006.10721.pdf">Ocean</a><b></td>
       <td><sub>-/(0.684/0.920)<sub></td>
       <td><sub>0.560/0.566<sub></td>
@@ -80,6 +80,23 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670426.pdf">PGNet</a><b></td>
+      <td><sub>-/(0.691/0.892)<sub></td>
+      <td><sub>0.531/0.605<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>0.618/0.192/0.447<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.679/0.610/0.642<sub></td>
    </tr>
    <!-- <tr>
       <td><b><a href="https://arxiv.org/pdf/1910.08681.pdf">SPARK</a><b></td>
