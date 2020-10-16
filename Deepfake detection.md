@@ -22,13 +22,13 @@ Compare performances of algorithms on Deepfake Detection.
         <td><b>DFDC<b></td>
     </tr>
     <tr>
-        <td><font size="1"> <b><sup>accuracy<sup><b></td>
-        <td><font size="1"> <b><sup>accuracy/AUC<sup><b></td>
-        <td><font size="1"> <b><sup>accuracy/AUC<sup><b></td>
+        <td><font size="1"> <b><sup>Accuracy<sup><b></td>
+        <td><font size="1"> <b><sup>Accuracy/AUC<sup><b></td>
+        <td><font size="1"> <b><sup>Accuracy/AUC<sup><b></td>
         <td><font size="1"> <b><sup>AUC<sup><b></td>
         <td><font size="1"> <b><sup>AUC<sup><b></td>
         <td><font size="1"> <b><sup>AUC<sup><b></td>
-        <td><font size="1"> <b><sup>accuracy<sup><b></td>
+        <td><font size="1"> <b><sup>Accuracy<sup><b></td>
         <td><font size="1"> <b><sup>AUC/EER<sup><b></td>
         <td><font size="1"> <b><sup>AUC/EER<sup><b></td>
         <td><font size="1"> <b><sup>AUC/EER<sup><b></td>
