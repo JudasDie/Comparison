@@ -1,5 +1,10 @@
 # Comparision
 Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
+ 
+[**SOT (single object tracking)**](https://github.com/JudasDie/Comparison/README.md)
+
+[**Deepfake detection**](https://github.com/JudasDie/Comparison/blob/master/Deepfake%20detection.md)
+
 
 <!-- #### Contents
 - [Single Objetc Tracking]() -->
