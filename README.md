@@ -1803,5 +1803,6 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
 
 
 ### Contributors
-- [Zhipeng Zhang](https://github.com/JudasDie)
+- [Zhipeng Zhang](http://zhipengzhang.cn/)
 - [Kaiwen Liu]()
+- [Weiming Bai]()
