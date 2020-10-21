@@ -1,6 +1,7 @@
 - **Multiple Objects Tracking (MOT)**  
-   - Download Papers (.zip) in [MOT20 (ECCV20, CVPR20, AAI20, ICML20, IJCAI20)](https://drive.google.com/drive/folders/1d0nRzwtsw1_QfdI-FxhSr1Ugp8fByHYZ?usp=sharing),
-   [MOT19 (ICCV19, CVPR19, CVPRW9, AAI19, IV19)](https://drive.google.com/drive/folders/1b-c0LvIUQiEanvEg97GiZfVfVIEjcZSb?usp=sharing),
+   - Download Papers (.zip) in [MOT20 (ECCV20, CVPR20, AAAI20, ICML20, IJCAI20)](https://drive.google.com/drive/folders/1d0nRzwtsw1_QfdI-FxhSr1Ugp8fByHYZ?usp=sharing),
+   [MOT19 (ICCV19, CVPR19, CVPRW19, AAAI19, IV19)](https://drive.google.com/drive/folders/1b-c0LvIUQiEanvEg97GiZfVfVIEjcZSb?usp=sharing),
+   [MOT18 (ECCV18, CVPRW18, TPAMI18, ACM18, ICME18, ICPR18)](https://drive.google.com/drive/folders/1EDBnKRDjwYhfagb1hYNqejHtNEhcjgIu?usp=sharing),
    [Others]()
   
    - <b><i>Bold italic</i></b> indicates online methods and non-bold indicates offline methods. * indicates MOT methods under the “private detector” protocol.
@@ -300,6 +301,133 @@
       <td>-</td>
       <td>-</td>
       <td><sub><b><i>77.72/82.32</i></b><sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td rowspan="3"><b>ECCV18<b></td>
+      <td><b><a href="https://openaccess.thecvf.com/content_ECCV_2018/papers/Ji_Zhu_Online_Multi-Object_Tracking_ECCV_2018_paper.pdf">DMAN</a><b></td>
+      <td>-</td>
+      <td><sub><b><i>46.1/54.8</i></b><sub></td>
+      <td><sub><b><i>48.2/55.7</i></b><sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td><b><a href="https://openaccess.thecvf.com/content_ECCV_2018/papers/Liangliang_Ren_Collaborative_Deep_Reinforcement_ECCV_2018_paper.pdf">C-DRL</a><b></td>
+      <td><sub><b><i>37.1/-</i></b><sub></td>
+      <td><sub><b><i>47.3/-</i></b><sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td><b><a href="https://openaccess.thecvf.com/content_ECCV_2018/papers/Chanho_Kim_Multi-object_Tracking_with_ECCV_2018_paper.pdf">MHT-bLSTM</a><b></td>
+      <td>-</td>
+      <td><sub>42.1/47.8<sub></td>
+      <td><sub>47.5/51.9<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td rowspan="2"><b>CVPRW18<b></td>
+      <td><b><a href="https://arxiv.org/pdf/1705.08314v4.pdf">FWT</a><b></td>
+      <td>-</td>
+      <td><sub>47.8/47.8<sub></td>
+      <td><sub>51.3/47.6<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td><b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8575325">MOT_LSTM</a><b></td>
+      <td>-</td>
+      <td><sub><b><i>62.6/-</i></b><sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td rowspan="2"><b>TPAMI18<b></td>
+      <td><b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8493320">CCC</a><b></td>
+      <td><sub>35.6/45.1<sub></td>
+      <td><sub>47.1/52.3<sub></td>
+      <td><sub>51.2/54.5<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td><b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8766896">DAN</a><b></td>
+      <td><sub><b><i>38.3/45.6</i></b><sub></td>
+      <td>-</td>
+      <td><sub><b><i>52.4/49.5</i></b><sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td rowspan="2"><b>ICPR18<b></td>
+      <td><b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8545450">HOGM</a><b></td>
+      <td>-</td>
+      <td><sub><b><i>64.8/73.5(*)</i></b><sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td><b><a href="https://arxiv.org/pdf/1802.09298.pdf">BeyondPixels</a><b></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td><sub><b><i>84.24/85.73</i></b><sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td rowspan="1"><b>ACM18<b></td>
+      <td><b><a href="https://dl.acm.org/doi/pdf/10.1145/3343031.3350853">TNT</a><b></td>
+      <td>-</td>
+      <td><sub><b><i>49.2/56.1</i></b><sub></td>
+      <td><sub><b><i>51.9/58.0</i></b><sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td rowspan="1"><b>ICME18<b></td>
+      <td><b><a href="https://arxiv.org/abs/1809.04427.pdf">MOTDT</a><b></td>
+      <td>-</td>
+      <td><sub><b><i>47.6/50.9</i></b><sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
       <td>-</td>
       <td>-</td>
       <td>-</td>
