@@ -530,11 +530,22 @@
       <td>-</td>
    </tr>
    <tr>
-      <td rowspan="7"><b>Others<b></td>
+      <td rowspan="8"><b>Others<b></td>
       <td><b><a href="https://arxiv.org/pdf/2006.02609.pdf">UnsupTrack</a><b></td>
       <td>-</td>
       <td><sub>62.4/58.5<sub></td>
       <td><sub>61.7/58.1<sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td><b><a href="https://arxiv.org/abs/2010.12138.pdf">CSTrack</a><b></td>
+      <td>-</td>
+      <td><sub><b><i>75.6/73.3（*）</i></b><sub></td>
+      <td><sub><b><i>74.9/72.6（*）</i></b><sub></td>
       <td>-</td>
       <td>-</td>
       <td>-</td>
