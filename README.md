@@ -13,7 +13,7 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
 
 
 - **Single Object Tracking (SOT)**  
-   - Download Papers (.zip) in [ECCV20](), [CVPR20](https://drive.google.com/file/d/1eBlzvliOIq508uYeAT5YjPPc_5ZSATXd/view?usp=sharing), [AAAI20](https://drive.google.com/file/d/1EKQHhWVcbzbNQ_4bEIBDP0QOj44vcSMG/view?usp=sharing), [CVPR2019](https://drive.google.com/file/d/1M-bWTbtktgha3FinC8YBuIlGZi29BJDP/view?usp=sharing), [ICCV19](https://drive.google.com/file/d/1SGRayZUYMnWm0KdR6xtJr6Jj8aiAsgY_/view?usp=sharing), [AAAI19](https://drive.google.com/file/d/1-h8aqzIprta5jv6RpDThMMCkUaVprNTg/view?usp=sharing), [ECCV18](https://drive.google.com/file/d/1WtAMh6DBlpQ7_5AYFeoABo4rOoMMSblK/view?usp=sharing), [CVPR18](https://drive.google.com/file/d/1OsWnHf-b4ZW1C_5GH6EKx5I8qyHg6Fd0/view?usp=sharing), [ICCV17](https://drive.google.com/file/d/19FtR_qHYMcK2rPmGBzr9HknQr5ru-rgt/view?usp=sharing), [CVPR17](https://drive.google.com/file/d/1xyC7OSbs1wN3Vgy69mU99O1H2sMdf11n/view?usp=sharing), [Others](https://drive.google.com/file/d/1fXQi9N0f7mAvsVV11ksfFOCewjol5Dml/view?usp=sharing)
+   - Download Papers (.zip) in [CVPR21](), [ECCV20](), [CVPR20](https://drive.google.com/file/d/1eBlzvliOIq508uYeAT5YjPPc_5ZSATXd/view?usp=sharing), [AAAI20](https://drive.google.com/file/d/1EKQHhWVcbzbNQ_4bEIBDP0QOj44vcSMG/view?usp=sharing), [CVPR2019](https://drive.google.com/file/d/1M-bWTbtktgha3FinC8YBuIlGZi29BJDP/view?usp=sharing), [ICCV19](https://drive.google.com/file/d/1SGRayZUYMnWm0KdR6xtJr6Jj8aiAsgY_/view?usp=sharing), [AAAI19](https://drive.google.com/file/d/1-h8aqzIprta5jv6RpDThMMCkUaVprNTg/view?usp=sharing), [ECCV18](https://drive.google.com/file/d/1WtAMh6DBlpQ7_5AYFeoABo4rOoMMSblK/view?usp=sharing), [CVPR18](https://drive.google.com/file/d/1OsWnHf-b4ZW1C_5GH6EKx5I8qyHg6Fd0/view?usp=sharing), [ICCV17](https://drive.google.com/file/d/19FtR_qHYMcK2rPmGBzr9HknQr5ru-rgt/view?usp=sharing), [CVPR17](https://drive.google.com/file/d/1xyC7OSbs1wN3Vgy69mU99O1H2sMdf11n/view?usp=sharing), [Others](https://drive.google.com/file/d/1fXQi9N0f7mAvsVV11ksfFOCewjol5Dml/view?usp=sharing)
 
 
 <table class="center">
@@ -52,6 +52,142 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><font size="1"> <b><sup>Succ./Prep.<sup><b></td>
       <td><font size="1"> <b><sup>M/TPR/TNR<sup><b></td>
       <td><font size="1"> <b><sup>Pr/Re/F<sup><b></td>
+   </tr>
+   <tr>
+      <td rowspan="8"><b>CVPR21<b></td>
+      <td><b><a href="https://arxiv.org/abs/2103.15436.pdf">TransT</a><b></td>
+      <td><sub>0.694/-<sub></td>
+      <td><sub>0.649/0.690<sub></td>
+      <td><sub>0.671/0.768/0.609<sub></td>
+      <td><sub>0.814/0.803<sub></td>
+      <td><sub>-/-/0.495<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.691/-<sub></td>
+      <td><sub>0.657/-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="https://arxiv.org/pdf/2103.11681.pdf">TrDiMP</a><b></td>
+      <td><sub>0.711/-<sub></td>
+      <td><sub>0.639/0.614<sub></td>
+      <td><sub>0.671/0.583/0.777<sub></td>
+      <td><sub>0.784/0.731<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.600/0.141/0.462<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.675/-<sub></td>
+      <td><sub>0.665/-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="https://arxiv.org/abs/2104.00324.pdf">STMTrack</a><b></td>
+      <td><sub>0.719/-<sub></td>
+      <td><sub>0.606/0.633<sub></td>
+      <td><sub>0.642/0.737/0.575<sub></td>
+      <td><sub>0.803/0.767<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.590/0.159/0.447<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.643/-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="https://arxiv.org/abs/2104.14545.pdf">LightTrack</a><b></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.555/0.561<sub></td>
+      <td><sub>0.623/0.726/-<sub></td>
+      <td><sub>0.733/0.708<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.552/0.310/0.357<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="https://arxiv.org/pdf/2012.02776.pdf">ACM</a><b></td>
+      <td><sub>0.720/-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.753/0.712<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.621/0.316/0.362<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.647/0.098/0.549<sub></td>
+      <td><sub>0.648/-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="https://arxiv.org/pdf/2104.00829.pdf">SiamRD</a><b></td>
+      <td><sub>0.701/0.931<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.527/0.531<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.593/0.306/0.341<sub></td>
+      <td><sub>0.595/0.131/0.470<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.643/0.801<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="https://arxiv.org/pdf/2012.06815.pdf">Alpha Refine</a><b></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.589/0.649/-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.775/0.744<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.633/0.136/0.476<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="https://arxiv.org/pdf/2011.11204.pdf">SiamGAT</a><b></td>
+      <td><sub>0.710/-<sub></td>
+      <td><sub>0.530/0.539<sub></td>
+      <td><sub>0.627/0.743/0.488<sub></td>
+      <td><sub>0.753/-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.646/0.843<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
    </tr>
    <tr>
       <td rowspan="3"><b>ECCV20<b></td>
@@ -1812,4 +1948,5 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
 - [Chao Liang]()
 - [Kaiwen Liu]()
 - [Weiming Bai]()
+- [Mingzhe Guo]()
 
