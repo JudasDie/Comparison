@@ -75,7 +75,7 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><b><a href="https://arxiv.org/pdf/2103.11681.pdf">TrDiMP</a><b></td>
       <td><sub>0.711/-<sub></td>
       <td><sub>0.639/0.614<sub></td>
-      <td><sub>0.671/0.583/0.777<sub></td>
+      <td><sub>0.671/0.777/0.583<sub></td>
       <td><sub>0.784/0.731<sub></td>
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
