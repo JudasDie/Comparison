@@ -54,7 +54,7 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><font size="1"> <b><sup>Pr/Re/F<sup><b></td>
    </tr>
    <tr>
-      <td rowspan="8"><b>CVPR21<b></td>
+      <td rowspan="9"><b>CVPR21<b></td>
       <td><b><a href="https://arxiv.org/abs/2103.15436.pdf">TransT</a><b></td>
       <td><sub>0.694/-<sub></td>
       <td><sub>0.649/0.690<sub></td>
@@ -184,6 +184,23 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
       <td><sub>0.646/0.843<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="https://arxiv.org/abs/2103.16746">TNL2K</a><b></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td></td>
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
