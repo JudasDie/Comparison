@@ -35,7 +35,7 @@
       <td><font size="1"> <b><sup>MOTA<sup><b></td>
    </tr>
    <tr>
-      <td rowspan="9"><b>CVPR2021<b></td>
+      <td rowspan="8"><b>CVPR2021<b></td>
       <td><b><a href="https://arxiv.org/pdf/2101.12159.pdf">DAM-LSTM</a><b></td>
       <td>-</td>
       <td><sub><b><i>49.9/52.5</i></b><sub></td>
@@ -123,19 +123,9 @@
       <td>-</td>
       <td>-</td>
    </tr>
-   <tr>
-      <td><b><a href="https://arxiv.org/pdf/2104.03424.pdf">TCR</a><b></td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td><sub>val here<sub></td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-   </tr>
+
    
-         
+        
    <tr>
       <td rowspan="4"><b>ECCV20<b></td>
       <td><b><a href="https://arxiv.org/pdf/2007.14557v1.pdf">CTracker</a><b></td>
