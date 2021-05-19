@@ -31,7 +31,21 @@ Compare performances of algorithms on Deepfake Detection.
         <td><font size="1"> <b><sup>Accuracy<sup><b></td>
         <td><font size="1"> <b><sup>AUC/EER<sup><b></td>
         <td><font size="1"> <b><sup>AUC/EER<sup><b></td>
-        <td><font size="1"> <b><sup>AUC/EER<sup><b></td>
+        <td><font size="1"> <b><sup>AUC/EER/logloss<sup><b></td>
+    </tr>
+    <tr>
+        <td><b>CVPR21<b></td>
+        <td><b><a href="https://arxiv.org/pdf/2103.02406.pdf">Multi-attentional Deepfake Detection</a><b></td>
+        <td><sub>-<sub></td>
+        <td><sub>97.60/99.29<sub></td>
+        <td><sub>88.69/90.40<sub></td>
+        <td><sub>-<sub></td>
+        <td><sub>-<sub></td>
+        <td><sub>-<sub></td>
+        <td><sub>-<sub></td>
+        <td><sub>-<sub></td>
+        <td><sub>-<sub></td>
+        <td><sub>-/-/0.1679<sub></td>
     </tr>
     <tr>
         <td><b>ECCV20<b></td>
@@ -126,7 +140,7 @@ Compare performances of algorithms on Deepfake Detection.
         <td><sub>-<sub></td>
         <td><sub>99.61/2.88<sub></td>
         <td><sub>83.60/28.55<sub></td>
-        <td><sub>91.17/17.55<sub></td>
+        <td><sub>91.17/17.55/-<sub></td>
     </tr>
     <tr>
         <td><b>ICASSP19<b></td>
@@ -196,7 +210,7 @@ Compare performances of algorithms on Deepfake Detection.
         <td><sub>-<sub></td>
         <td><sub>-<sub></td>
         <td><sub>82.46/24.29<sub></td>
-        <td><sub>87.45/21.39<sub></td>
+        <td><sub>87.45/21.39/-<sub></td>
     </tr>
     <tr>
         <td><b>WIFS18<b></td>
