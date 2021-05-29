@@ -64,9 +64,9 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
       <td><sub>0.691/-<sub></td>
       <td><sub>0.657/-<sub></td>
-      <td><sub>-<sub></td>
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
@@ -125,7 +125,7 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
    <tr>
       <td><b><a href="https://arxiv.org/pdf/2012.02776.pdf">ACM</a><b></td>
       <td><sub>0.720/-<sub></td>
-      <td><sub>-<sub></td>
+      <td><sub>0.572/-<sub></td>
       <td><sub>-<sub></td>
       <td><sub>0.753/0.712<sub></td>
       <td><sub>-<sub></td>
