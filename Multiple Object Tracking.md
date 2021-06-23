@@ -35,7 +35,7 @@
       <td><font size="1"> <b><sup>MOTA<sup><b></td>
    </tr>
    <tr>
-      <td rowspan="8"><b>CVPR2021<b></td>
+      <td rowspan="9"><b>CVPR2021<b></td>
       <td><b><a href="https://arxiv.org/pdf/2101.12159.pdf">DAM-LSTM</a><b></td>
       <td>-</td>
       <td><sub><b><i>49.9/52.5</i></b><sub></td>
@@ -123,7 +123,17 @@
       <td>-</td>
       <td>-</td>
    </tr>
-
+   <tr>
+      <td><b><a href="https://arxiv.org/abs/2103.16178.pdf">GMTracker</a><b></td>
+      <td>-</td>
+      <td><sub><b><i>70.1/64.7（*）</i></b><sub></td>
+      <td><sub><b><i>69.1/63.9（*）</i></b><sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+   </tr>
    
         
    <tr>
