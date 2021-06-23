@@ -126,8 +126,8 @@
    <tr>
       <td><b><a href="https://arxiv.org/abs/2103.16178.pdf">GMTracker</a><b></td>
       <td>-</td>
-      <td><sub><b><i>70.1/64.7（*）</i></b><sub></td>
-      <td><sub><b><i>69.1/63.9（*）</i></b><sub></td>
+      <td><sub>68.7/65.0<sub></td>
+      <td><sub>70.6/66.2<sub></td>
       <td>-</td>
       <td>-</td>
       <td>-</td>
