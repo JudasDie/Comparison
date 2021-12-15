@@ -56,12 +56,12 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><font size="1"> <b><sup>Succ./Prep.<sup><b></td>
    </tr>
     <tr>
-      <td rowspan="4"><b>ICCV21<b></td>
+      <td rowspan="6"><b>ICCV21<b></td>
       <td><b><a href="https://arxiv.org/abs/2108.00803">AutoMatch</a><b></td>
       <td><sub>0.714/0.926<sub></td>
       <td><sub>0.583/0.599<sub></td>
       <td><sub>0.652/0.766/0.543<sub></td>
-      <td><sub>0.76/0.726<sub></td>
+      <td><sub>0.760/0.726<sub></td>
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
@@ -123,6 +123,42 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
       <td><sub>0.656/0.778<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="https://arxiv.org/abs/2103.16556">KeepTrack</a><b></td>
+      <td><sub>0.709/-<sub></td>
+      <td><sub>0.671/-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.697/-<sub></td>
+      <td><sub>0.664/-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.809/0.806/0.812<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+   <tr>
+      <td><b><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Yu_High-Performance_Discriminative_Tracking_With_Transformers_ICCV_2021_paper.pdf">DTT</a><b></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.601/-<sub></td>
+      <td><sub>0.689/-/-<sub></td>
+      <td><sub>0.796/0.789<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.659/-<sub></td>
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
