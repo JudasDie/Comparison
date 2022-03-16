@@ -35,7 +35,7 @@
       <td><font size="1"> <b><sup>MOTA<sup><b></td>
    </tr>
     <tr>
-      <td rowspan="2"><b>ICCV2021<b></td>
+      <td rowspan="6"><b>ICCV2021<b></td>
       <td><b><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Tokmakov_Learning_To_Track_With_Object_Permanence_ICCV_2021_paper.pdf">PermaTrack</a><b></td>
       <td>-</td>
       <td>-</td>
@@ -47,7 +47,51 @@
       <td>-</td>
    </tr> 
    <tr>
-      <td><b><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Track_Without_Appearance_Learn_Box_and_Tracklet_Embedding_With_Local_ICCV_2021_paper.pdf">LPC_MOT</a><b></td>
+      <td><b><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Track_Without_Appearance_Learn_Box_and_Tracklet_Embedding_With_Local_ICCV_2021_paper.pdf">LGM</a><b></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>87.6</td>
+      <td>22.5/35.2</td>
+      <td>-</td>
+      <td>-</td>
+   </tr>
+    <tr>
+      <td><b><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Luo_Exploring_Simple_3D_Multi-Object_Tracking_for_Autonomous_Driving_ICCV_2021_paper.pdf">SimTrack</a><b></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td><b><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Choudhuri_Assignment-Space-Based_Multi-Object_Tracking_and_Segmentation_ICCV_2021_paper.pdf">JT</a><b></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td><b><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_A_General_Recurrent_Tracking_Framework_Without_Real_Data_ICCV_2021_paper.pdf">RTU</a><b></td>
+      <td>-</td>
+      <td><sub><b><i>74.9/75.0 (*) </i></b><sub></td>
+      <td><sub><b><i>76.5/76.0 (*) </i></b><sub></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td><b><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Continuous_Copy-Paste_for_One-Stage_Multi-Object_Tracking_and_Segmentation_ICCV_2021_paper.pdf">CCPNet</a><b></td>
       <td>-</td>
       <td>-</td>
       <td>-</td>
