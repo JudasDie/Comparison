@@ -52,8 +52,8 @@
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      <td>87.6</td>
-      <td>22.5/35.2</td>
+      <td><sub>87.6<sub></td>
+      <td><sub>22.5/35.2<sub></td>
       <td>-</td>
       <td>-</td>
    </tr>
