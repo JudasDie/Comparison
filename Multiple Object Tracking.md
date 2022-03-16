@@ -38,8 +38,8 @@
       <td rowspan="2"><b>ICCV2021<b></td>
       <td><b><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Tokmakov_Learning_To_Track_With_Object_Permanence_ICCV_2021_paper.pdf">PermaTrack</a><b></td>
       <td>-</td>
-      <td><sub><b><i>49.9/52.5</i></b><sub></td>
-      <td><sub><b><i>53.6/55.8</i></b><sub></td>
+      <td>-</td>
+      <td><sub><b><i>71.9/69.5 (*) </i></b><sub></td>
       <td>-</td>
       <td>-</td>
       <td>-</td>
@@ -47,11 +47,11 @@
       <td>-</td>
    </tr> 
    <tr>
-      <td><b><a href="https://arxiv.org/pdf/2103.07889.pdf">LPC_MOT</a><b></td>
+      <td><b><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Track_Without_Appearance_Learn_Box_and_Tracklet_Embedding_With_Local_ICCV_2021_paper.pdf">LPC_MOT</a><b></td>
       <td>-</td>
       <td>-</td>
-      <td><sub>59.0/66.8<sub></td>
-      <td><sub>56.3/62.5<sub></td>
+      <td>-</td>
+      <td>-</td>
       <td>-</td>
       <td>-</td>
       <td>-</td>
