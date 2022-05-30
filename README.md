@@ -185,25 +185,6 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub>-<sub></td>
    </tr>
     <tr>
-      <td rowspan="1"><b>IJCAI21<b></td>
-      <td><b><a href="https://arxiv.org/abs/2105.11237">SiamRCR</a><b></td>
-      <td><sub>-<sub></td>
-      <td><sub>0.575/0.599<sub></td>
-      <td><sub>0.624/0.752/0.460<sub></td>
-      <td><sub>0.764/0.716<sub></td>
-      <td><sub>-<sub></td>
-      <td><sub>0.602/0.386/0.336<sub></td>
-      <td><sub>-<sub></td>
-      <td><sub>-<sub></td>
-      <td><sub>-<sub></td>
-      <td><sub>-<sub></td>
-      <td><sub>-<sub></td>
-      <td><sub>-<sub></td>
-      <td><sub>-<sub></td>
-      <td><sub>-<sub></td>
-      <td><sub>-<sub></td>
-   </tr>
-    <tr>
       <td rowspan="6"><b>ICCV21<b></td>
       <td><b><a href="https://arxiv.org/abs/2108.00803">AutoMatch</a><b></td>
       <td><sub>0.714/0.926<sub></td>
@@ -312,7 +293,25 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
    </tr>
-   
+    <tr>
+      <td rowspan="1"><b>IJCAI21<b></td>
+      <td><b><a href="https://arxiv.org/abs/2105.11237">SiamRCR</a><b></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.575/0.599<sub></td>
+      <td><sub>0.624/0.752/0.460<sub></td>
+      <td><sub>0.764/0.716<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.602/0.386/0.336<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
    <tr>
       <td rowspan="8"><b>CVPR21<b></td>
       <td><b><a href="https://arxiv.org/abs/2103.15436.pdf">TransT</a><b></td>
@@ -547,6 +546,25 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
    </tr> -->
+    <tr>
+      <td rowspan="1"><b>IJCAI20<b></td>
+      <td><b><a href="https://www.ijcai.org/proceedings/2020/99">TLPG</a><b></td>
+      <td><sub>0.698/-<sub></td>
+      <td><sub>0.581/-<sub></td>
+      <td><sub>0.629/0.735/-<sub></td>
+      <td><sub>0.758/0.706<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.606/0.149/0.459<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
    <tr>
       <td rowspan="8"><b>CVPR20<b></td>
       <td><b><a href="https://arxiv.org/pdf/2004.00830v1.pdf">MAML</a><b></td>
@@ -819,25 +837,7 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub>0.687/0.650<sub></td>
       <td><sub>-<sub></td>
    </tr>
-    <tr>
-      <td rowspan="1"><b>IJCAI20<b></td>
-      <td><b><a href="https://www.ijcai.org/proceedings/2020/99">TLPG</a><b></td>
-      <td><sub>0.698/-<sub></td>
-      <td><sub>0.581/-<sub></td>
-      <td><sub>0.629/0.735/-<sub></td>
-      <td><sub>0.758/0.706<sub></td>
-      <td><sub>-<sub></td>
-      <td><sub>-<sub></td>
-      <td><sub>0.606/0.149/0.459<sub></td>
-      <td><sub>-<sub></td>
-      <td><sub>-<sub></td>
-      <td><sub>-<sub></td>
-      <td><sub>-<sub></td>
-      <td><sub>-<sub></td>
-      <td><sub>-<sub></td>
-      <td><sub>-<sub></td>
-      <td><sub>-<sub></td>
-   </tr>
+
    <tr>
       <td rowspan="12"><b>CVPR19<b></td>
       <td><b><a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Deeper_and_Wider_Siamese_Networks_for_Real-Time_Visual_Tracking_CVPR_2019_paper.pdf">SiamDW</a><b></td>
