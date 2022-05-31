@@ -75,7 +75,7 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub>0.520/0.527<sub></td>
    </tr>
     <tr>
-      <td rowspan="4"><b>CVPR22<b></td>
+      <td rowspan="8"><b>CVPR22<b></td>
       <td><b><a href="https://arxiv.org/abs/2203.11082">MixFormer</a><b></td>
       <td><sub>0.704/0.922<sub></td>
       <td><sub>0.701/0.763<sub></td>
@@ -140,6 +140,78 @@ Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
       <td><sub>0.571/0.286/0.355<sub></td>
       <td><sub>-<sub></td>
       <td><sub>0.603/0.214/0.417<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+    <tr>
+      <td><b><a href="https://arxiv.org/abs/2203.16092">GTELT</a><b></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.677/0.732<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.825/0.816<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.768/0.764/0.772<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+    <tr>
+      <td><b><a href="https://arxiv.org/abs/2205.11761">RBO</a><b></td>
+      <td><sub>0.701/-<sub></td>
+      <td><sub>0.571/0.586<sub></td>
+      <td><sub>0.644/0.767/0.509<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.629/0.112/0.543<sub></td>
+      <td><sub>0.645/-<sub></td>
+      <td><sub>0.613/-<sub></td>
+      <td><sub>0.619/-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+    <tr>
+      <td><b><a href="https://arxiv.org/abs/2205.03806">CSWinTT</a><b></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.662/0.709<sub></td>
+      <td><sub>0.694/0.789/0.654<sub></td>
+      <td><sub>0.819/0.795<sub></td>
+      <td><sub>0.480/0.787/0.304<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.705/0.903<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+   </tr>
+    <tr>
+      <td><b><a href="https://arxiv.org/abs/2203.15175">UTT</a><b></td>
+      <td><sub>-<sub></td>
+      <td><sub>0.646/0.672<sub></td>
+      <td><sub>0.672/0.763/0.605<sub></td>
+      <td><sub>0.797/0.770<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
+      <td><sub>-<sub></td>
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
       <td><sub>-<sub></td>
