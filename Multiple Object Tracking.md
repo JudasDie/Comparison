@@ -38,7 +38,7 @@
       <td><font size="1"> <b><sup>MOTA<sup><b></td>
    </tr>
    <tr>
-      <td rowspan="3"><b>CVPR2023<b></td>
+      <td rowspan="7"><b>CVPR2023<b></td>
       <td><b><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Cao_Observation-Centric_SORT_Rethinking_SORT_for_Robust_Multi-Object_Tracking_CVPR_2023_paper.pdf
 Github：https://github.com/noahcao/OC_SORT">OCSORT</a><b></td>
       <td>-</td>
